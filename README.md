@@ -1,4 +1,3 @@
-# Smart_Attendance_System
 # Smart Attendance System using Face Recognition
 
 Enhance attendance tracking with face recognition. This system provides a user-friendly interface, real-time monitoring, and efficient attendance management.
